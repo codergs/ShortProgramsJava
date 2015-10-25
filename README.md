@@ -1,2 +1,2 @@
 # ShortProgramsJava
-A colection of small helpful programs in JAVA
+A collection of small helpful programs in JAVA
